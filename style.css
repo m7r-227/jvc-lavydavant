@@ -1,0 +1,70 @@
+.jv-header-top {
+    background-color: #004365 !important;
+}
+
+.jv-header-menu .nav-link, .nav-link-search, .account-pseudo, .jv-account-number-mp, .jv-account-number-notif   {
+    color: white !important;
+}
+
+.jv-header-sticky {
+    background-color: #023047 !important;
+}
+
+.panel-heading {
+    background-color: #545363 !important;
+}
+
+.panel-jv-forum {
+    background-color: #2A2A2A !important;
+    padding-bottom: 0;
+}
+
+.panel-body {
+    background-color: #2A2A2A !important;
+}
+
+.panel-body .lien-jv {
+    color: #7B7574 !important;    
+}
+
+.panel-body .titre-info-fofo {
+    color: #EABD1D !important;    
+}
+
+.panel-body {
+    color: #FFFFFF !important;    
+}
+
+.btn {
+    border-color: #6B7986 !important;
+    background-color: #6B7986 !important;
+    color: #FFFFFF !important;    
+    border-radius: 0.15rem;
+}
+
+.btn.btn-repondre-msg {
+    border-color: #ff3c00 !important;
+    background-color: #ff3c00 !important;
+}
+
+#bloc-title-forum {
+    color: #ff3c00 !important;
+}
+
+.bloc-pagi-default .page-active {
+    border-radius: 0 !important;
+    background-color: #ff3c00 !important;
+}
+
+.bloc-message-forum {
+    border-radius: 0 !important;
+}
+
+.bloc-message-forum .user-avatar-msg {
+    border-radius: 0 !important;
+}
+
+.barre-head .txt-spoil {
+    border-radius: 0 !important;
+}
+
